@@ -1,1 +1,1 @@
-hello world script
+prints hello world
